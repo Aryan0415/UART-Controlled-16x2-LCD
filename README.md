@@ -45,3 +45,14 @@ The design successfully receives ASCII characters through UART and displays them
 - Backspace Support
 - Scrolling Text
 - Custom Character Generation
+## Hardware Demonstration
+
+### LCD Output
+
+![LCD Output](images/LCDVIEW)
+
+### Project Demo
+
+A short demonstration video of the UART-controlled LCD is available in this repository:
+
+**VID_20260711_135351494.mp4**
